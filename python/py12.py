@@ -1,0 +1,5 @@
+x=int(input("Enter The First Number:"))
+y=int(input("Enter The First Number:"))
+z=int(input("Enter The First Number:"))
+print(max(x,y,z))
+input("Please press enter to exit")

@@ -1,0 +1,6 @@
+abs(-15)
+print(abs)
+bin(10)
+bool(1)
+chr(65)
+divmod(9,2)
